@@ -6,14 +6,16 @@ Pod::Spec.new do |spec|
 
   spec.name         = "CustomPodVivek"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of CustomPodVivek."
-  spec.description  = "DESC"
+  spec.summary      = "Test project"
+  spec.description  = "Description of the test project"
   spec.homepage     = "https://github.com/vivek-cashify/CustomPodVivek.git"
   spec.license      = "MIT"
   spec.author             = { "Vivek" => "vivek.t@cashify.in" }
   spec.platform     = :ios, "12.0"
+  spec.swift_version = '4.0'
   spec.source       = { :git => "https://github.com/vivek-cashify/CustomPodVivek.git", :tag => "0.0.1" }
 
-  spec.source_files  = "CustomPodVivek/**/*"
+  spec.source_files  = "CustomPodVivek/*"
+  spec.exclude_files = "CustomPodVivek/*.plist"
 
 end

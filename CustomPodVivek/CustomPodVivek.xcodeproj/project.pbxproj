@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B690D83F26B877D800669641 /* CustomPodVivek.h in Headers */ = {isa = PBXBuildFile; fileRef = B690D83D26B877D800669641 /* CustomPodVivek.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B690D84626B8795300669641 /* ServiceClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = B690D84526B8795300669641 /* ServiceClass.swift */; };
+		B690D86726B8DF9C00669641 /* ServiceClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = B690D84526B8795300669641 /* ServiceClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -134,7 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B690D84626B8795300669641 /* ServiceClass.swift in Sources */,
+				B690D86726B8DF9C00669641 /* ServiceClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
