@@ -1,0 +1,16 @@
+PODS:
+  - CustomPodVivek (0.0.1)
+
+DEPENDENCIES:
+  - CustomPodVivek (from `../CustomPodVivek/`)
+
+EXTERNAL SOURCES:
+  CustomPodVivek:
+    :path: "../CustomPodVivek/"
+
+SPEC CHECKSUMS:
+  CustomPodVivek: 4134d4291e60df05e83cf0a4a7ff2beb7f2269da
+
+PODFILE CHECKSUM: a8c194d315800f9932e53b0c2f3978ab2ef7e74f
+
+COCOAPODS: 1.10.2

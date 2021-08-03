@@ -1,0 +1,6 @@
+framework module CustomPodVivek {
+  umbrella header "CustomPodVivek-umbrella.h"
+
+  export *
+  module * { export * }
+}
