@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
 
 source 'https://github.com/CocoaPods/Specs.git'
   spec.name         = "CustomPodVivek"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "Test project"
   spec.description  = "Description of the test project"
   spec.homepage     = "https://github.com/vivek-cashify/CustomPodVivek.git"
@@ -14,7 +14,7 @@ source 'https://github.com/CocoaPods/Specs.git'
   spec.author             = { "Vivek" => "vivek.t@cashify.in" }
   spec.platform     = :ios, "12.0"
   spec.swift_version = '4.0'
-  spec.source       = { :git => "https://github.com/vivek-cashify/CustomPodVivek.git", :tag => "0.0.1" }
+  spec.source       = { :git => "https://github.com/vivek-cashify/CustomPodVivek.git", :tag => "1.0.0" }
 
   spec.source_files  = "CustomPodVivek/*"
   spec.exclude_files = "CustomPodVivek/*.plist"
