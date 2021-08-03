@@ -4,6 +4,7 @@
 
 Pod::Spec.new do |spec|
 
+source 'https://github.com/CocoaPods/Specs.git'
   spec.name         = "CustomPodVivek"
   spec.version      = "0.0.1"
   spec.summary      = "Test project"
